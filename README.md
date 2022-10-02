@@ -1,15 +1,24 @@
-# Name：Xubin Dong	
+# Name：Xubin Dong   
 
-# Birth date：1987.02.02
 
-# Education：Bachelor Degree	
+# Birth date：1987.02.02   
 
-# Major： Petroleum Engineering 
 
-# Height：176cm	
+# Education：Bachelor Degree	   
 
-# Tel：13041152119
 
-# E-mail：dongxubin624@163.com
+# Major： Petroleum Engineering   
 
-# September 2006-June 2010	Southwest Petroleum University
+
+# Height：176cm	  
+
+
+# Tel：13041152119  
+
+
+# E-mail：dongxubin624@163.com  
+
+
+# September 2006-June 2010	Southwest Petroleum University  
+
+

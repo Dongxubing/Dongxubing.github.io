@@ -3,9 +3,8 @@
 
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
-- <richard.hendriks@mail.com>
+- <dongxubin624@163.com>
 - (912) 555-4321
-- [richardhendricks.example.com](http://richardhendricks.example.com)
 - San Francisco, CA
 
 <!-- The paragraph after the h1 and ul and before the first h2 is optional. It
